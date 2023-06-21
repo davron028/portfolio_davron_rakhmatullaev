@@ -12,6 +12,10 @@ PORTFOLIO
 - Successfully released application for business partners
 - clean MVVM (ViewModel + UseCase + Repository + Service) + Hilt DI 
 
+-[Innmall](https://play.google.com/store/apps/details?id=uz.innmall): 
+- Successfully released application for business partners
+- clean MVVM (ViewModel + UseCase + Repository + Service) + Hilt DI 
+
 -[MKBANK mobile](https://play.google.com/store/apps/details?id=uz.fido_biznes.mobile.client.mkb_newrelease):
 - Designing and coding Credit and Deposit parts
 - clean MVVM (ViewModel + UseCase + Repository + Service) + Hilt DI 
